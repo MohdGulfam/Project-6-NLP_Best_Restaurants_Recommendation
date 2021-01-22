@@ -1,2 +1,4 @@
 # Project-6-NLP_Best_Restaurants_Recommendation
-Recommendation systems are a type of information filtering systems because they improve the quality of search results and provide elements that are more relevant to the search item or that are related to the search history of the user.
+Recommendation systems are a type of information filtering systems because they improve the quality of search results and provide elements that are more relevant to the search item or that are related to the search history of the user.</b>
+A Restaurant recommendation system uses content-based filtering. This method only uses information about the description and attributes of items that users have previously consumed to model user preferences.</b>
+To create the Restaurant recommendation system, I will create a content-based recommendation system where when I enter the name of a restaurant, the Restaurant recommendation system will look at reviews from other restaurants, and System will recommend us to the other restaurants with similar reviews and sort them from the top-rated.
